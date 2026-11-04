@@ -24,7 +24,7 @@ A sua linha de investigação prioriza exclusivamente o avanço da modelagem de 
 ---
 ## Projetos 
 
-[Ver Projetos](pages/projetos.html)
+[Ver Projetos](pages/projetos.md)
 
 
 ---
