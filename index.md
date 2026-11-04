@@ -22,6 +22,12 @@ Investigamos fenômenos complexos que vão desde a mecânica relativística até
 A sua linha de investigação prioriza exclusivamente o avanço da modelagem de sistemas físicos complexos, traduzindo dinâmicas de equações diferenciais para a topologia de redes e análise de dados, operando na interseção perfeita entre a academia de ponta e a computação avançada.
 
 ---
+## Projetos 
+
+[Ver Projetos](pages/projetos.html)
+
+
+---
 
 ## 🌌 Core Research Areas
 
